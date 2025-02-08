@@ -46,8 +46,7 @@ Si sacas un **1**, pierdes los puntos acumulados en ese turno y el turno pasa al
 ## Demo 🎥
 
 ¡Mira el juego en acción!  
-![Demo Pig Game](ruta/al/screenshot.png)  
-*Reemplaza `ruta/al/screenshot.png` con la ruta real de tu captura de pantalla.*
+![Demo Pig Game](pigGameScreenShot.png)  
 
 ---
 
